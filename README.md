@@ -1,2 +1,2 @@
 # cloudbase-init
-include some code and configure files
+include some code and configure files about cloudbase-init
